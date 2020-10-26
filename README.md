@@ -21,8 +21,8 @@ My portfolio 🆘. I have the whole idea in my head, but I really need help to v
 - More to come, as I continue discovering my strengths. 😌
 
 ### 📫 How to reach me: ...
-Email: [I feel like I've accomplished something in life when I receive a non-work related email] <shukla.bhanvi@gmail.com> 📩
-LinkedIn: [Cha cha into my dms, sliding is so 2019] <https://www.linkedin.com/in/bhanvishukla> 
+- Email: [I feel like I've accomplished something in life when I receive a non-work related email] <shukla.bhanvi@gmail.com> 📩
+- LinkedIn: [Cha cha into my dms, sliding is so 2019] <https://www.linkedin.com/in/bhanvishukla> 
 
 ### 😄 Pronouns: ... 
 ![BUT-I-DONT-WANT-ANY](https://i.redd.it/ey148edcynb41.png)
