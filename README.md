@@ -1,6 +1,11 @@
 # Ahoy there! 🏴‍☠️
 This is your typical UI Developer, wading the depths of the tech-swamp. 
 
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=BhanaviShukla&hide=contribs)](https://github.com/BhanaviShukla/github-readme-stats)
+
+______________
+
 ### 🔭 My role on the boat ...
 You mean aside from passin on a cheer here and there? Well, [leaving the wannabe pirate jargon here 😅] I build UIs in React with close collaboration with Design & Product to make sure pixel perfect and UX friendly software reaches our precious users. ☺️  
 
@@ -29,7 +34,6 @@ My portfolio 🆘. I have the whole idea in my head, but I really need help to v
 Sorry, I just... had to. 
 It's She/Her 👩🏻‍💻
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=BhanaviShukla&hide=contribs)](https://github.com/BhanaviShukla/github-readme-stats)
 <!---
 ### ⚡ Fun fact: ...
 --->
