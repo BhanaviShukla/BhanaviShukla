@@ -32,7 +32,8 @@ My portfolio 🆘. I have the whole idea in my head, but I really need help to v
 ### 😄 Pronouns: ... 
 ![BUT-I-DONT-WANT-ANY](https://i.redd.it/ey148edcynb41.png)
 Sorry, I just... had to. 
-It's She/Her 👩🏻‍💻
+They are - 
+#### She/Her 👩🏻‍💻
 
 <!---
 ### ⚡ Fun fact: ...
