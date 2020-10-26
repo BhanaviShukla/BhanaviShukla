@@ -30,7 +30,7 @@ My portfolio 🆘. I have the whole idea in my head, but I really need help to v
 - LinkedIn: [Cha cha into my dms, sliding is so 2019] <https://www.linkedin.com/in/bhanvishukla> 
 
 ### 😄 Pronouns: ... 
-![BUT-I-DONT-WANT-ANY](https://i.redd.it/ey148edcynb41.png)
+![BUT-I-DONT-WANT-ANY](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMdI77ySmbiEy-bRBAF_F1CGd7qXx2fJ4lhw&usqp=CAU)
 Sorry, I just... had to. 
 They are - 
 #### She/Her 👩🏻‍💻
