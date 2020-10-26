@@ -29,6 +29,7 @@ My portfolio 🆘. I have the whole idea in my head, but I really need help to v
 Sorry, I just... had to. 
 It's She/Her 👩🏻‍💻
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=BhanaviShukla&hide=contribs)](https://github.com/BhanaviShukla/github-readme-stats)
 <!---
 ### ⚡ Fun fact: ...
 --->
