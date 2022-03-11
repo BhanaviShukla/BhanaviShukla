@@ -3,6 +3,8 @@ This is your typical UI Developer, wading the depths of the tech-swamp.
 
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=BhanaviShukla&count_private=true&hide=contribs&show_icons=true&theme=vue)](https://github.com/BhanaviShukla/github-readme-stats)
+[![My github trophies](https://github-profile-trophy.vercel.app/?username=BhanaviShukla)]
+
 
 ______________
 
