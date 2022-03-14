@@ -9,7 +9,7 @@ ______________
 
 ### 🔭 My role on the boat ...
 You mean aside from passin on a cheer here and there? Well, [leaving the wannabe pirate jargon here 😅] I build UIs in React with close collaboration with Design & Product to make sure pixel perfect and UX friendly software reaches our precious users. ☺️  
-Fishin for a detailed version? Find it [here](https://docs.google.com/presentation/d/e/2PACX-1vQBXh_9RMCcsT_qmFzciuPaTLPInGus0inekzntv-0MRWKHII1RB-dZHduXl1y6x3Z3DESskC81JA3E/pub?start=true&loop=false&delayms=3000). 
+Fishin for a detailed version? Find it [here](https://registry.jsonresume.org/BhanaviShukla?theme=github). 
 
 ### 🌱 I’m currently learning ...
 - React Native, and how to wield it to its utmost strength both for web and mobile 
