@@ -2,7 +2,7 @@
 This is your typical UI Developer, wading the depths of the tech-swamp. 
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BhanaviShukla)](https://github.com/BhanaviShukla/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BhanaviShukla&layout=compact&theme=onedark)](https://github.com/BhanaviShukla/github-readme-stats)
 [![My github trophy](https://github-profile-trophy.vercel.app/?username=BhanaviShukla&theme=onedark&&rank=SSS,SS,S,AAA,AA,A,B)]([https://github.com/BhanaviShukla/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=BhanaviShukla&theme=onedark&&rank=SSS,SS,S,AAA,AA,A,B))
 
 ______________
